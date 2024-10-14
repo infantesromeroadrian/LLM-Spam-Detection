@@ -1,0 +1,5 @@
+outs:
+- md5: d022b40c7f86496cc8e71c97fe49db68
+  size: 1473487
+  hash: md5
+  path: featured_sms.csv
