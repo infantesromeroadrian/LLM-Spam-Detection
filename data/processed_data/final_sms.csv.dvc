@@ -1,0 +1,5 @@
+outs:
+- md5: 304c5e500923a4782093faf231a5bd27
+  size: 92239219
+  hash: md5
+  path: final_sms.csv
